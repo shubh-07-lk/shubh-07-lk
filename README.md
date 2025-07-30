@@ -15,7 +15,7 @@
 - 🧠 Projects: Fake News Detector, Stock Optimizer, Fake news detector
 - ✍️ Fun fact: I’m also an **artist 🎨**
 - 📫 Reach me: **shubhamkalashetty07@gmail.com**  
-- 🌐 Portfolio: [Your Website Link](https://yourwebsite.com)
+- 🌐 Portfolio: [Your Website Link]((https://my-portfolio-eh6y.vercel.app/))
 
 ---
 
@@ -55,9 +55,8 @@
 ### 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubham-kalashetty/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shubham.kalashetty@example.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="[https://www.linkedin.com/in/shubham-kalashetty-b02941272/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shubhamkalashetty07@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
