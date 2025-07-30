@@ -15,7 +15,7 @@
 - 🧠 Projects: Fake News Detector, Stock Optimizer, Fake news detector
 - ✍️ Fun fact: I’m also an **artist 🎨**
 - 📫 Reach me: **shubhamkalashetty07@gmail.com**  
-- 🌐 Portfolio: [Your Website Link]((https://my-portfolio-eh6y.vercel.app/))
+- 🌐 Portfolio: [https://my-portfolio-eh6y.vercel.app/]
 
 ---
 
