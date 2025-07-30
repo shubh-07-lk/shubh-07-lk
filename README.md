@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4NTM3NjUsIm5iZiI6MTc1Mzg1MzQ2NSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMwVDA1MzEwNVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTcxNWFlMjg1ZGVlMzNkOWI1OTg3NGI3MDM1YmIzYTU3NjI3ZGQwYjNiZmY5NTVlYjlmNDRlZDQxNGQ4MjY3OTQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.j338HL6bV0CcW_5cehW7Tf3i2cBsOoa3a7pBa10mmMI" alt="Banner" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif" alt="Banner" width="300" />
 </p>
+
 
 <h1 align="center">Hi 👋, I'm Shubham Kalashetty</h1>
 <h3 align="center">A passionate Software Engineer | AIML Student | Problem Solver 🚀</h3>
