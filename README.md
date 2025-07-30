@@ -1,5 +1,14 @@
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif" alt="Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shubham Kalashetty</h1>
 <h3 align="center">A passionate Software Engineer | AIML Student | Problem Solver 🚀</h3>
+
+<p align="center">
+  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" alt="Developer Working Animation" />
+</p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
