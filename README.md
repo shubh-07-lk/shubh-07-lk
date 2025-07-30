@@ -55,16 +55,38 @@
 ### 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="[https://www.linkedin.com/in/shubham-kalashetty-b02941272/]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shubhamkalashetty07@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shubham-kalashetty-b02941272/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shubhamkalashetty07@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/_shubham_lk_/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.hackerrank.com/shubhamkalashet1/" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/shubham_821/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-### 😎 Fun GIF
+### 🎉 Fun Coding GIFs
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
+  <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/1kJtKiyFODU3e/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="300"/>
 </p>
 
 ---
+
+
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&color=F7F7F7&center=true&vCenter=true&multiline=true&width=700&lines=Thank+you+for+visiting+my+profile!+👋;Feel+free+to+explore+my+repos+and+connect!+🚀" />
+</p>
