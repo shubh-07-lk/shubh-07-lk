@@ -7,7 +7,7 @@
 <h3 align="center">A passionate Software Engineer | AIML Student | Problem Solver 🚀</h3>
 
 <p align="center">
-  <img src="https://private-user-images.githubusercontent.com/74038190/371756373-fddcdbcd-5ea2-4416-9f59-ca7fd9394aca.gif" alt="Developer Working Animation" />
+  <img src="https://private-user-images.githubusercontent.com/74038190/238353467-897cd757-ea1f-492d-aaf9-6d1674177e08.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTM4NTQwODEsIm5iZiI6MTc1Mzg1Mzc4MSwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0NjctODk3Y2Q3NTctZWExZi00OTJkLWFhZjktNmQxNjc0MTc3ZTA4LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzMwVDA1MzYyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJjMjI5MzAxOGRmNjM2YWRlNDhjN2I0ZGU0NjU5NWQ1ZTBkMGJmYmNhN2E2YzE0YTM1ODY2ODVjOWViMTVjMWImWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.yv0rsTi5xY3WqTT9MTI84A_KNf2so2FHqZPjd7k-0YA" alt="Developer Working Animation" />
 </p>
 
 
