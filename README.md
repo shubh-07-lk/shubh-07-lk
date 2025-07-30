@@ -47,7 +47,7 @@
 ### 📈 Top Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubham-kalashetty&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shubh-07-lk&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
